@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JobConnect Backend
 
 JobConnect is an Express/Node.js API backed by MySQL. This repository is
@@ -95,3 +96,7 @@ For local demonstration only, the seeded demo accounts use the password
 
 ## for reference
   git clone https://github.com/agathaapio79-ux/jobconnect-backend.git
+=======
+# jobconnect-backend
+class work
+>>>>>>> 99bd8aebc804e934a927466326b15a8bf75e7f24
